@@ -1,5 +1,5 @@
 {
-  "id": "com.pulsedash.app",
+  "id": "/",
   "name": "PulseDash",
   "short_name": "PulseDash",
   "description": "Um jogo arcade emocionante de desviar e sobreviver.",
@@ -8,7 +8,7 @@
   "lang": "pt-BR",
   "dir": "ltr",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
+  "display_override": ["standalone", "minimal-ui", "window-controls-overlay"],
   "orientation": "portrait",
   "background_color": "#0f172a",
   "theme_color": "#7c3aed",
